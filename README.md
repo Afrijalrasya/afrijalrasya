@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Afrijal Rasya Putra</h1>
-<h3 align="center">Student Passionate About Data</h3>
+<h3 align="center">Student Passionate About Data & System</h3>
 
 <h3 align="left">I'm currently learning:</h3>
 <p align="left">
