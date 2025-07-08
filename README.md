@@ -4,10 +4,7 @@
 <h3 align="left">I'm currently learning:</h3>
 <p align="left">
 </p>
-- Pemrograman **Python**
-- **SQL** dan dasar-dasar manipulasi data
-- Konsep dasar **ETL** dan alur kerja data pipeline
-
+- Python, SQL, ETL and data pipeline
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
