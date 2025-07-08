@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Afrijal Rasya Putra</h1>
 <h3 align="center">Student Passionate About Data</h3>
 
-- 🌱 I’m currently learning **SQL, python, Data pipeline.**
+#🌱 I’m currently learning:
+- **Python** 
+- **SQL** and basics manipulaiton langueage
+- Basic concepts of **ETL** and data pipeline workflow
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
