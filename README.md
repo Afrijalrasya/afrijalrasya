@@ -16,6 +16,7 @@
 </a> <img src="https://www.datageeks.pl/images/Article-images/102-How-to-open-Microsoft-XLSB/pdi.png" alt="PDI" width="40"/>
 <a><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40"/></a>
 <a>  <img src="https://mailmeteor.com/logos/assets/PNG/Microsoft_Office_Excel_Logo_256px.png"  width="40"/></a>
+<a>  <img src="https://img.icons8.com/?size=100&id=kTTt25v6Drpd&format=png&color=000000"  width="40"/></a>
 
 </p>
 
