@@ -4,7 +4,10 @@
 <h3 align="left">I'm currently learning:</h3>
 <p align="left">
 </p>
-- Python, SQL, ETL and data pipeline
+- Python
+- SQL
+- ETL and data pipeline
+- Data visualization
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
