@@ -2,7 +2,7 @@
 <h3 align="center">Student Passionate About Data & System</h3>
 
 <h3 align="left">I'm currently learning:</h3>
- Python | SQL | ETL and data pipeline | Data visualization 
+ SQL | ETL and data pipeline | Data visualization 
  
 <h3 align="left">Connect with me:</h3>
 
