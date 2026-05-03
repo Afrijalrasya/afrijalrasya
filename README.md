@@ -3,7 +3,7 @@
 
 ## About Me
 
-Hello! I am **Afrijal Rasya Putra**, an Informatics student who is interested in exploring the world of **Data**. Although it's still early in my college journey, I'm excited to learn about how data is processed and turned into meaningful information.
+Hello! I'm **Afrijal Rasya Putra**, an Informatics student who is interested in exploring the world of **Data**. Although it's still early in my college journey, I'm excited to learn about how data is processed and turned into meaningful information.
 
 📌 I am currently exploring:
 - Python
