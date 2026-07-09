@@ -3,11 +3,10 @@
 
 ## About Me
 
-Hello! I'm **Afrijal Rasya Putra**, an Informatics student who is interested in exploring the world of **Data**. Although it's still early in my college journey, I'm excited to learn about how data is processed and turned into meaningful information.
+Informatics undergraduate with a strong interest in **Data Analytics** and technology. Currently building practical skills in data processing and analytics through self-learning and hands-on projects while exploring various areas of IT. Passionate about solving problems, continuous learning, and creating data-driven solutions.
 
 📌 I am currently exploring:
-- Python
-- concepts of **ETL** and data pipeline workflows
+- Security analysis
 
 I love learning and exploring new things, especially those related to data. I am currently building my skills gradually and constantly looking for opportunities to grow. I am also open to **internships** or **collaborative projects** that can give me hands-on experience and help my learning process.
 
