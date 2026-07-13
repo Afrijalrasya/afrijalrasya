@@ -12,7 +12,7 @@ Informatics undergraduate with an interest in **Data Analytics**, and **Security
 - Linux Administration
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/afrijalrasyaputra)
 
 ## 🛠️ Tech Stack
 
