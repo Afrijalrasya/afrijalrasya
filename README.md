@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Afrijal Rasya Putra</h1>
 <h3 align="center">I'm Passionate About Data & Automated System</h3>
 
-## About Me
-
-Informatics undergraduate with a strong interest in **Data Analytics** and technology. Currently building practical skills in data processing and analytics through self-learning and hands-on projects while exploring various areas of IT. Passionate about solving problems, continuous learning, and creating data-driven solutions.
-
 📌 I am currently exploring:
 - Security analysis
 
