@@ -1,11 +1,12 @@
 # Hi, My name Is Afrijal Rasya Putra 👋
 
 ## 👨‍💻 Profile
-Informatics undergraduate with an interest in **Data Analytics**, and **Security Operations**. I enjoy building data-driven solutions and analyzing security events to improve decision-making and system defense.
+Informatics undergraduate with an interest in **Data Analytics**, and **ETL Development**. I enjoy building data-driven solutions and building ETL Pipeline
 
 ## 🎯 Interests
 - Data Analytics
 - SQL & Data Visualization
+- ETL Development
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/afrijalrasyaputra)
